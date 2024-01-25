@@ -1,2 +1,16 @@
-# ElectricMeter
-Step into the future of energy management with our state-of-the-art Digital Electrical Meter Mobile App. Seamlessly designed with a user-friendly interface and stunning visuals crafted in Adobe XD, and powered by the robust Flutter framework, this app is a game-changer in monitoring and optimizing your electricity usage.
+# portfolio
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
